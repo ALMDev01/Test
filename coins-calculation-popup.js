@@ -13,12 +13,12 @@
 
     var Messages = {
         Ar: {
-            Title: "رسالة من محمد البغدادي - الرئيس التنفيذي",
-            Description: "العملاء الأعزاء،<br/><br/>بالرغم مما نمر به الآن من أوقات استثنائية، فقد كان من الواجب علينا اتجاهكم واتجاه عائلاتكم أن نشارككم دعمنا وتضامننا، ونرجو لكم أطيب الأمنيات.<br/><br/>في ظل هذه الظروف أصبحنا أكثر وعيًا بمسؤولياتنا حول ضمان استمرارية وصولكم إلى المحتوى والخدمات التي نقدمها، وأود أن أطمئنكم على أننا ملتزمون اتجاه مسؤولياتنا،<br/>ونبذل كل ما في وسعنا للحفاظ على أمان فريقنا ومساعدتكم لتحقيق أهدافكم وأولوياتكم.<br/><br/>كما أنني في هذا الوقت أود أن أشكركم شخصيًا على دعمكم المستمر وصبركم.<br/><br/>إنّ شركاءنا وعملاءنا في صميم ما نقوم به، لذا أود أن أحثكم جميعًا على التواصل مع جهات الاتصال الإقليمية الخاصة بكم لضمان معالجة أسئلتكم واستفساراتكم وطلباتكم.<br/><br/>وأخيرًا، أقدم كل الشكر لزملائنا على جهودهم المستمرة خلال هذا الوقت الغير مسبوق، نحن جميعًا في هذا الأمر ومن خلال العمل معًا؛ سنجد مخرجًا.<br/><br/>مودتي وإخلاصي،،<br/>محمد",
+            Title: "تنبيه:",
+            Description: "تم إعادة طريقة احتساب النقاط بحيث أصبح تمرين إعادة ترتيب القصة اختياري وليس أساسي، وبالتالي قد يكون هناك زيادة في عدد النقاط.",
         },
         En: {
-            Title: "A Message from the calculation - Mohamad Al Baghdadi",
-            Description: "We are experiencing the most extraordinary of times during which I would like to share my heartfelt support, best wishes and solidarity with you and your families. As I become more aware of our responsibility towards providing you with uninterrupted access to our content and services, I’d like to reassure you that we continue to be committed towards responsible business while doing all we can to keep our team safe and help you achieve your goals and priorities. <br/><br/> During this uncertain time, I would like to personally thank you for your ongoing support and patience. Our partners and customers are at the heart of what we do, so I would urge all of you to continue to work with your regional contact to ensure that your questions, queries and requests are being addressed. <br/><br/> And finally, I would like to thank our colleagues for their continued efforts during this unprecedented time. We’re all in this together – and it is by working together that we will find a way out! <br/><br/> Sincerely<br/> Mohamad<br/>",
+            Title: "Attention:",
+            Description: "Coins calculation method has been updated since the sort story exercise is now optional. There will be an increase in the number of coins for some students.",
         }
     };
 
